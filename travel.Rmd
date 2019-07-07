@@ -6,3 +6,9 @@ https://blog.apiabroad.com/community/api-alumni-highlight-vicky-cooley/
 
 <img src="castle.jpg" style="width:40%; border:4px solid; margin-right: 20px" align="left">
 
+<img src="prague.jpg" style="width:40%; border:4px solid; margin-right: 20px" align="left">
+
+<img src="vienna.jpg" style="width:40%; border:4px solid; margin-right: 20px" align="left">
+
+<img src="rainbow.jpg" style="width:40%; border:4px solid; margin-right: 20px" align="left">
+
