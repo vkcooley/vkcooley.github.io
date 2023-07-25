@@ -1,14 +1,26 @@
----
----
+<br>
 
-<link rel="stylesheet" href="styles.css" type="text/css">
+```{r, out.width = '275px', out.extra='style="float:left; padding:10px"', echo = FALSE}
+knitr::include_graphics('VC_photo.jpeg')
+```
 
-<img src="columbia.jpg" style="width:30%; border:4px solid; margin-right: 20px" align="left">
+# Victoria Cooley, MS
 
-My passion for biostatistics is rooted in my desire to help improve the quality of life and health of individuals worldwide. I am a 2018 graduate of the MS in Biostatistics program at [Columbia University Mailman School of Public Health](https://www.mailman.columbia.edu/), and hold a BS in Health Science and Spanish minor from [Springfield College](https://springfield.edu) (2016).
+I am an applied biostatistician and researcher who is passionate about the early detection and prevention of cancer. Currently I am a Doctoral Researcher at the German Cancer Research Center/Deutsches Krebsforschungszentrum (DKFZ) in the Division of Cancer Epidemiology within the Hormones and Cancer research group. My work involves the discovery and validation of biomarkers for the earlier detection of ovarian cancer. I also enjoy the visual representation of data and learning about new graphical production techniques.
 
-Currently, I am a Doctoral Researcher 
 
-Research Biostatistician I in the [Department of Healthcare Policy and Research](http://hpr.weill.cornell.edu/divisions/biostatistics/) (Division of Biostatistics and Epidemiology) at Weill Cornell Medicine. My work entails the conduction of short-term and long-term biostatistical consultations with clinicians and investigators at Weill Cornell Medicine and surrounding hospitals in the NYC area. I assist investigators with study planning, data analysis and graphics production, and strive to translate these results into meaningful conclusions. I currently collaborate with investigators in the fields of pediatrics, urology, cardiothoracic surgery, and colorectal cancer. 
+<br>
+
+## Work Experience
+
+## Education
+
+**Columbia University \|** New York, NY
+
+Master of Science in Biostatistics \| 09/2016 -- 05/2018
+
+**Springfield College \|** Springfield, MA
+
+Bachelor of Science in Health Science \| 09/2012 -- 05/2016
 
 I am also an avid traveler, and enjoy meeting people from different countries and learning about different cultures.
