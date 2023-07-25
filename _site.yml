@@ -9,6 +9,8 @@ navbar:
       href: projects.html
     - text: "Travel"
       href: travel.html
+    - text: "Blog abroad"
+      href: Blogabroad.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
