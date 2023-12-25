@@ -3,14 +3,12 @@ output_dir: "."
 navbar:
   title: "Victoria K. Cooley"
   left:
-    - text: "Experience"
+    - text: "Travel recs"
       href: experience.html
     - text: "Projects"
       href: projects.html
     - text: "Travel"
       href: travel.html
-    - text: "Blog abroad"
-      href: Blogabroad.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

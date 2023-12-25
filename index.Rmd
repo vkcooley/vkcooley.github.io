@@ -1,22 +1,20 @@
 <br>
 <br>
 <br>
-```{r, out.width = '350px', out.extra='style="float:left; padding:10px"', echo = FALSE}
-knitr::include_graphics('IMG_7623.JPG')
-```
+
+<img src="IMG_7623.JPG" style="width:30%; border:4px solid; margin-right: 20px" align="left">
 
 <br>
-<br>
 
-# Victoria Cooley, MS
+# Victoria Cooley
 
 I am an applied biostatistician and researcher who is passionate about the early detection and prevention of cancer. Currently I am a Doctoral Researcher at the German Cancer Research Center/Deutsches Krebsforschungszentrum (DKFZ) in the Division of Cancer Epidemiology within the Hormones and Cancer research group. My work involves the discovery and validation of biomarkers for the earlier detection of ovarian cancer. I also enjoy the visual representation of data and learning about new graphical production techniques.
 
-Testing test
+
 
 <br>
 
-## Work Experience
+<br>
 
 ## Education
 
