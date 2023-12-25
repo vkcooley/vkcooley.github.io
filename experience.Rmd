@@ -1,4 +1,32 @@
 ---
+output:
+  html_document:
+    df_print: paged
+    toc: true # table of content true
+    toc_depth: 4  # upto three depths of headings (specified by #, ## and ###)
+    number_sections: false  ## if you want number sections at each table header
+    highlight: tango  # specifies the syntax highlighting style
+    toc_float:
+      collapsed: true
+      smooth_scroll: true
 ---
-# Sicily 
-# Germany
+
+# Switzerland 🇨🇭
+
+## Basel -\> Lucerne -\> Mt. Rigi --\> Stoos ridge hike
+
+*Basel*
+
+Basel was a great starting point for this trip as it is very well connected via train to other nearby cities. I came from Heidelberg via Karlsruhe (there are several direct ICE trains from Karlsruhe, which is about a 40min S-bahn/regional train ride from Heidelberg) and my friend came from Milan (many options from here as well - I love the EC train as it is direct!).
+
+We only had one half day and night in Basel, and while it would've been nice to have had longer, we felt is was sufficient to get a feel for the city and wander around a bit. We walked from our hotel near Barfüsserplatz/Steinenvorstadt to Marktplatz and admired the [Rathaus](https://maps.app.goo.gl/K9T6nhM3HMgcCoL27) (City Hall) and popped in and out of stores. We continued to walk south parallel to the Rhine River and stopped to check out the [Basler Münster](https://maps.app.goo.gl/d1awtGjc5BimuyV3A) (Basel Minster - large gothic-style Protestant cathedral). We then made our way closer to the Rhine and found this adorable pottery shop [Motel a Miio](https://maps.app.goo.gl/JWcigDbABMdGax7Q6). All of the ceramics are handmade in Portugal 🇵🇹 and are truly stunning!
+
+Shortly after we crossed over the Mittlere Brücke, which links the older and newer parts of Basel, and was a great place to take photos of the Rhine and the surrounding buildings. We walked for a bit along the Rhine and then found a spot to chill along the river. We each got a glass of Weißweinschorle (very popular in Germany - white wine mixed with sparkling water) and enjoyed the the remaining sun for the day and views of the Rhine. For dinner we went to a pizza place called [Margherita](https://maps.app.goo.gl/z3FgCtDjWd96wc5R8) (I know, having Italian food while in Switz!) and overall we were pretty happy with the food.
+
+*Lucerne*
+
+## Berlin
+
+## Heidelberg
+
+# Italy
